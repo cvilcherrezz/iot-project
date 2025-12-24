@@ -19,7 +19,7 @@ DHT21 (temperature & humidity)
 ENS 160 CO₂ sensor 
 Actuators for environmental control
 
-## Usage
+## Usage
 
 Upload the code to the ESP32.
     Configure the MQTT broker credentials in the code.  
