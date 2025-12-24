@@ -2,28 +2,26 @@
 
 This repository contains the main ESP32 code for a mushroom cultivation monitoring system developed for the IoT Workshop course.
 
-Authors: Cesar Vilcherrez, Yifan Wang
-
-# Project Overview
-
 The system uses an ESP32 to monitor environmental parameters in a mushroom cultivation setup, such as temperature, humidity, and CO₂ levels. Sensor data is sent over MQTT and displayed on a local dashboard built with Node-RED for real-time monitoring.
 
-# Features
+Authors: Cesar Vilcherrez, Yifan Wang
 
-- Collects sensor data for environmental conditions.
-- Publishes data to an MQTT broker.
-- Data visualization and monitoring via a local Node-RED dashboard.
+## Features
 
-# Hardware
+Collects sensor data for environmental conditions.
+Publishes data to an MQTT broker.
+Data visualization and monitoring via a local Node-RED dashboard.
 
-- ESP3286 development board
-- DHT21 (temperature & humidity)
-- ENS 160 CO₂ sensor 
-- Actuators for environmental control
+## Hardware
 
-# Usage
+ESP3286 development board
+DHT21 (temperature & humidity)
+ENS 160 CO₂ sensor 
+Actuators for environmental control
 
-    Upload the code to the ESP32.
+## Usage
+
+Upload the code to the ESP32.
     Configure the MQTT broker credentials in the code.  
     Launch the Node-RED dashboard locally to visualize real-time data.
 
