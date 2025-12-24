@@ -16,11 +16,11 @@ Data visualization and monitoring via a local Node-RED dashboard.
 
 Hardware
 
-ESP32 development board
+ESP3286 development board
 
 DHT21 (temperature & humidity)
 
-CO₂ sensor
+CO₂ sensor ENS 160
 
 Optional actuators for environmental control
 
@@ -44,10 +44,8 @@ See the main firmware: [`main-esp32.ino`](main-esp32.ino)
 
 ## Project Images
 
-Below are project images (click to open full-size):
+- Prototype: [assets/images/prototype1.png](assets/images/prototype1.png)  
+  <img src="assets/images/prototype1.png" alt="Hardware thumbnail" width="300"/>
+  [assets/images/prototype2.png](assets/images/prototype2.png)  
+  <img src="assets/images/prototype2.png" alt="Hardware thumbnail" width="300"/>
 
-- Architecture: [assets/images/architecture.png](assets/images/architecture.png)  
-  <img src="assets/images/architecture.png" alt="Architecture thumbnail" width="300"/>
-
-- Hardware (example): [assets/images/hardware.jpg](assets/images/hardware.jpg)  
-  <img src="assets/images/hardware.jpg" alt="Hardware thumbnail" width="300"/>
