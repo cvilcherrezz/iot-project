@@ -44,8 +44,7 @@ See the main firmware: [`main-esp32.ino`](main-esp32.ino)
 
 ## Project Images
 
-- Prototype: [assets/images/prototype1.png](assets/images/prototype1.png)  
+- Prototype: 
   <img src="assets/images/prototype1.png" alt="Hardware thumbnail" width="300"/>
-  [assets/images/prototype2.png](assets/images/prototype2.png)  
   <img src="assets/images/prototype2.png" alt="Hardware thumbnail" width="300"/>
 
